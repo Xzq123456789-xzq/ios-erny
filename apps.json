@@ -1,0 +1,15 @@
+{
+  "name": "薛之谦软件源",
+  "version": "1.0",
+  "apps": [
+    {
+      "name": "电子斗蛐蛐",
+      "bundleId": "com.dad.douququ",
+      "version": "1.0",
+      "downloadURL": "https://cdn.jsdelivr.net/gh/Xzq123456789-xzq/ios-erny/ipa/douququ.ipa",
+      "iconURL": "https://cdn.jsdelivr.net/gh/Xzq123456789-xzq/ios-erny/icon/douququ.png",
+      "size": 1048576,
+      "description": "薛之谦软件源专属小游戏，签名即可安装"
+    }
+  ]
+}
