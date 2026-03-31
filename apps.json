@@ -14,6 +14,18 @@
       "unlockCode": "XZQ666888",
       "unlockTip": "请输入解锁码",
       "description": "薛之谦软件源 - 自动连点器"
+    },
+    {
+      "name": "全能签",
+      "bundleId": "com.qiannengqian.app",
+      "version": "1.0",
+      "downloadURL": "https://cdn.jsdelivr.net/gh/Xzq123456789-xzq/ios-erny/ipa/quannengqian.ipa",
+      "iconURL": "https://i.imgur.com/9Z7X7yY.png",
+      "size": 7444889,
+      "updated": "2026-03-31 18:25:00",
+      "unlockCode": "XZQ666888",
+      "unlockTip": "请输入解锁码",
+      "description": "薛之谦软件源 - 全能签工具"
     }
   ]
 }
