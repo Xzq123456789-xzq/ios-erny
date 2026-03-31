@@ -9,8 +9,10 @@
       "downloadURL": "https://cdn.jsdelivr.net/gh/Xzq123456789-xzq/ios-erny/ipa/zidonliandianqi.ipa",
       "iconURL": "https://cdn.jsdelivr.net/gh/Xzq123456789-xzq/ios-erny/icon/liandianqi.png",
       "size": 13421772,
-      "updated": "2026-03-31 17:47:00",
-      "description": "薛之谦软件源专属自动连点器，签名即可安装"
+      "updated": "2026-03-31 18:30:00",
+      "unlockCode": "XZQ666888",
+      "unlockTip": "请输入解锁码",
+      "description": "薛之谦软件源 - 自动连点器"
     }
   ]
 }
